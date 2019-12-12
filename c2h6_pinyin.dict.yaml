@@ -5,7 +5,7 @@
 
 ---
 name: c2h6_pinyin
-version: "2019.04.20"
+version: "2019.12.13"
 sort: by_weight
 vocabulary: essay-zh-hans
 ...
@@ -25354,9 +25354,8 @@ vocabulary: essay-zh-hans
 桥	qiao
 桦	hua
 桧	gui
+桧	hui
 桧	kuai
-桧木	kuai mu
-桧柏	kuai bo
 桨	jiang
 桩	zhuang
 桪	xun
@@ -35395,7 +35394,6 @@ vocabulary: essay-zh-hans
 红地毯	hong di tan
 红女	gong nv
 红尾伯劳	hong wei bo lao
-红桧	hong kuai
 红榜	hong bang
 红毛番	hong mao fan
 红线传	hong xian zhuan
